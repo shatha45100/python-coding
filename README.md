@@ -11,7 +11,7 @@ All group members collaborate on initial setup, data preparation, Task 3 (Chat I
 | **SHATHA ALMASOUDI(451005520)** | General Model - Fine-tuned (Task 2 & Fine-tuning) |
 | **Sadeem Alzahrani (451004494)** | Code Model - Base (Task 1 & Evaluation) |
 | **Najat alharbi (461016600)** | Code Model - Fine-tuned (Collaboration & Training) |
-| **Name (ID)** | Code Model - Fine-tuned (Collaboration & Loss Curves) |
+| **Hajar naji abudurayhim (461016601)** | Code Model - Fine-tuned (Collaboration & Loss Curves) |
 
 ---
 
