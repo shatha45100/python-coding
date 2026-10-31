@@ -8,7 +8,7 @@ All group members collaborate on initial setup, data preparation, Task 3 (Chat I
 | Student Name & ID | Assigned Role / Model Part |
 | :--- | :--- |
 | **Name (ID)** | General Model - Base (Task 1 & Evaluation) |
-| **Name (ID)** | General Model - Fine-tuned (Task 2 & Fine-tuning) |
+| **SHATHA ALMASOUDI(451005520)** | General Model - Fine-tuned (Task 2 & Fine-tuning) |
 | **Sadeem Alzahrani (451004494)** | Code Model - Base (Task 1 & Evaluation) |
 | **Name (ID)** | Code Model - Fine-tuned (Collaboration & Training) |
 | **Name (ID)** | Code Model - Fine-tuned (Collaboration & Loss Curves) |
